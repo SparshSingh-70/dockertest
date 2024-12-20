@@ -17,9 +17,11 @@ public class Sum {
 
         // Calculate the sum of the numbers
         double sum = num1 + num2 + num3;
+        double average = sum/3;
 
         // Display the sum
         System.out.println("The sum of the three numbers is: " + sum);
+        System.out.println("The average of the three numbers is: " + average);
 
         // Close the scanner object
         scanner.close();
