@@ -22,6 +22,7 @@ public class Sum {
         // Display the sum
         System.out.println("The sum of the three numbers is: " + sum);
         System.out.println("The average of the three numbers is: " + average);
+        System.out.println("Exiting the program");
 
         // Close the scanner object
         scanner.close();
